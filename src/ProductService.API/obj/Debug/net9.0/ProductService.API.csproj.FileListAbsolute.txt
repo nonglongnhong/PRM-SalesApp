@@ -67,6 +67,7 @@ D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\Produ
 D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\ProductService.API.csproj.CoreCompileInputs.cache
 D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\ProductService.API.MvcApplicationPartsAssemblyInfo.cs
 D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\ProductService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\ProductService.API.sourcelink.json
 D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\HocTap\PRMGroupProject\SalesApp\src\ProductService.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

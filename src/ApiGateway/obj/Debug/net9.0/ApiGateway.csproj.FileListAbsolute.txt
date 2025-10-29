@@ -27,6 +27,7 @@ D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\ApiGateway.As
 D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\ApiGateway.csproj.CoreCompileInputs.cache
 D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
 D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\ApiGateway.sourcelink.json
 D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\HocTap\PRMGroupProject\SalesApp\src\ApiGateway\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
