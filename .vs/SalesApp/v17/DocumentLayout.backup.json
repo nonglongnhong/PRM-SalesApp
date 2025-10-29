@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\PRMGroupProject\\SalesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\cartservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|solutionrelative:src\\cartservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\cartservice.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|solutionrelative:src\\cartservice.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\cartservice.api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|solutionrelative:src\\cartservice.api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\cartservice.api\\data\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|solutionrelative:src\\cartservice.api\\data\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\cartservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FD5F838-E270-40A7-A27F-06054E1657EE}|src\\CartService.API\\CartService.API.csproj|solutionrelative:src\\cartservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D972C15A-29A2-4AAB-B8B5-5A12E9808E4D}|src\\ProductService.API\\ProductService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\productservice.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D972C15A-29A2-4AAB-B8B5-5A12E9808E4D}|src\\ProductService.API\\ProductService.API.csproj|solutionrelative:src\\productservice.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D972C15A-29A2-4AAB-B8B5-5A12E9808E4D}|src\\ProductService.API\\ProductService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\productservice.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D972C15A-29A2-4AAB-B8B5-5A12E9808E4D}|src\\ProductService.API\\ProductService.API.csproj|solutionrelative:src\\productservice.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B87A8-B0D3-4B94-8601-BF41881F4B83}|src\\UserService.API\\UserService.API.csproj|d:\\hoctap\\prmgroupproject\\salesapp\\src\\userservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB9B87A8-B0D3-4B94-8601-BF41881F4B83}|src\\UserService.API\\UserService.API.csproj|solutionrelative:src\\userservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "src\\CartService.API\\Models\\Cart.cs",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Models\\Cart.cs",
+              "RelativeToolTip": "src\\CartService.API\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:00:29.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "src\\CartService.API\\Models\\CartItem.cs",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Models\\CartItem.cs",
+              "RelativeToolTip": "src\\CartService.API\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:00:27.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartDbContext.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Data\\CartDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CartService.API\\Data\\CartDbContext.cs",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Data\\CartDbContext.cs",
+              "RelativeToolTip": "src\\CartService.API\\Data\\CartDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:00:21.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CartService.API\\appsettings.json",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\appsettings.json",
+              "RelativeToolTip": "src\\CartService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T08:58:47.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\ProductService.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "src\\ProductService.API\\Models\\Product.cs",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\ProductService.API\\Models\\Product.cs",
+              "RelativeToolTip": "src\\ProductService.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:46:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CartService.API\\Program.cs",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\CartService.API\\Program.cs",
+              "RelativeToolTip": "src\\CartService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:23:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\ProductService.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "src\\ProductService.API\\Models\\Category.cs",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\ProductService.API\\Models\\Category.cs",
+              "RelativeToolTip": "src\\ProductService.API\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:46:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\UserService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\UserService.API\\appsettings.json",
+              "ToolTip": "D:\\HocTap\\PRMGroupProject\\SalesApp\\src\\UserService.API\\appsettings.json",
+              "RelativeToolTip": "src\\UserService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T08:36:02.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
